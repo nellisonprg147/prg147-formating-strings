@@ -1,0 +1,67 @@
+@charset "UTF-8";
+body {
+
+    font-family: Tohma, Geneva, sans-serif;
+    font-size: 1em;
+}
+.bodycolor{
+    background-color: antiquewhite;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.header {
+    background-color: azure;
+    text-align: center;
+    height: 100px;
+}
+.h1{
+    font-family:sans-serif;
+    font-size: 100%;
+}
+.h2{
+    font-family:sans-serif;
+    font-size: 100%;
+}
+
+
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+.textBoxOne{
+    width: 350px;
+    height: 474px;
+    border: solid;
+    border-color: black;
+    float: right;
+
+}
+.textBoxTwo{
+    width: 350px;
+    height: 474px;
+    border: solid;
+    border-color: black;
+    float: left;
+}
+.textBoxThree{
+    width: 425px;
+    height: 310px;
+    border: solid;
+    border-color: black;
+    float: left;
+}
+.footer {
+
+    text-align: center;
+    height: 50px;
+    padding: 20px;
+    font-size: 1em;
+    margin: 20px;
+}
